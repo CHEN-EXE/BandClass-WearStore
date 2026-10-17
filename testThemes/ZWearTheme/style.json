@@ -1,0 +1,8 @@
+{
+  "theme": "violet",
+  "align": "center",
+  "showClock": true,
+  "showDate": true,
+  "showSeconds": false,
+  "cornerRadius": 24
+}
