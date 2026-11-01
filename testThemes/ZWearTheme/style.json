@@ -1,8 +1,21 @@
 {
+  "name": "表盘示例",
   "theme": "violet",
   "align": "center",
+  "verticalPosition": "center",
+  "backgroundColor": "#100a1a",
+  "primaryColor": "#ffffff",
+  "secondaryColor": "#b9a6d9",
+  "accentColor": "#a78bfa",
+  "backgroundImage": "54.png",
+  "backgroundOpacity": 78,
   "showClock": true,
   "showDate": true,
   "showSeconds": false,
-  "cornerRadius": 24
+  "cornerRadius": 24,
+  "progress": {
+    "enabled": true,
+    "color": "#a78bfa",
+    "opacity": 85
+  }
 }

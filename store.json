@@ -2,10 +2,10 @@
   "packs": [
     {
       "id": "violet-center",
-      "name": "紫色居中表盘(测试)",
+      "name": "测试表盘",
       "author": "官方",
       "version": "1.0.0",
-      "downloadUrl": "https://raw.githubusercontent.com/CHEN-EXE/BandClass-WearStore/refs/heads/main/testThemes/package.zip"
+      "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/CHEN-EXE/BandClass-WearStore/refs/heads/main/testThemes/package.zip"
     }
   ]
 }
