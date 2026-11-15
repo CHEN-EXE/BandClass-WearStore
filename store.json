@@ -4,8 +4,9 @@
       "id": "violet-center",
       "name": "测试表盘",
       "author": "官方",
-      "version": "1.0.1",
-      "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/CHEN-EXE/BandClass-WearStore/refs/heads/main/testThemes/package.zip?v=2"
+      "version": "1.0.2",
+      "encoding": "base64",
+      "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/CHEN-EXE/BandClass-WearStore/refs/heads/main/testThemes/package.b64?v=3"
     }
   ]
 }
